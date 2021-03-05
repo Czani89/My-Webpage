@@ -1,0 +1,22 @@
+body{
+    background-color:cornsilk;
+}
+.container{
+    display:flex;
+    margin: auto;
+    width: 100%;
+    
+}
+.name{
+    margin: 0rem 2rem 0rem 2rem;
+}
+.city_text{
+    width: 33%;
+}
+table{
+    width: 50%;
+    border-collapse: collapse ;
+}
+table, th, td{
+    border: solid .1rem black;
+}
